@@ -5,7 +5,7 @@ Ready for localhost
 
 
 
-# Install the Apple Server (or Xampp 5.4), put all the contents of "CMS & SWF" in htdocs, upload the database in the name 'habbo', and turn on the emulator
+# Install the Apple Server, put all the contents of "CMS & SWF" in htdocs, upload the database in the name 'habbo', and turn on the emulator
 
 
 
